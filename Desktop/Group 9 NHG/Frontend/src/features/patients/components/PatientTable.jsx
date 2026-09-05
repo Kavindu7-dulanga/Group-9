@@ -76,7 +76,6 @@ export default function PatientTable({ patients, onEdit, onDelete }) {
                     <Home size={11} /> {patient.address}//SgitIZEgit
                   </span>
                 </td>
-
                 <td className="px-5 py-4">
                   <div className="flex items-center gap-2 justify-end">
                     <button
