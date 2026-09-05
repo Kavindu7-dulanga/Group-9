@@ -73,7 +73,7 @@ export default function PatientTable({ patients, onEdit, onDelete }) {
 
                 <td className="px-5 py-4 text-slate-500 text-xs">
                   <span className="flex items-center gap-1.5">
-                    <Home size={11} /> {patient.address}
+                    <Home size={11} /> {patient.address}//SgitIZEgit
                   </span>
                 </td>
 
